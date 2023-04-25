@@ -8,3 +8,5 @@
 5. Imprime True o False de acuerdo a si el resultado es mayor a 2
 
 y la base de la calculadora
+
+terminada la base con correccion de decimales y formula pra IMC

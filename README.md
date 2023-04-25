@@ -6,3 +6,5 @@
 3. Convierte el dato escrito por el usuario a un número entero
 4. Divide el número por 3
 5. Imprime True o False de acuerdo a si el resultado es mayor a 2
+
+y la base de la calculadora

@@ -6,7 +6,6 @@
 3. Convierte el dato escrito por el usuario a un número entero
 4. Divide el número por 3
 5. Imprime True o False de acuerdo a si el resultado es mayor a 2
-
-y la base de la calculadora
-
-terminada la base con correccion de decimales y formula pra IMC
+6. y la base de la calculadora
+7. terminada la base con correccion de decimales y formula pra IMC
+8. temrina la clase de mierocles con la idea y pensando como hare

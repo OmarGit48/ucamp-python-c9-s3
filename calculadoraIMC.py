@@ -1,3 +1,4 @@
+
 print ("Calculadora IMC")
 print ("Vamos a calcular el Indice de Masa Corporal según tu peso y estatura")
 print ("Para esto primero te pediremos algunos datos")
